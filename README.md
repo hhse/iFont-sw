@@ -1,7 +1,10 @@
 # iFont-sw
 
-纯本地 iOS 18~26 字体转换工具，支持 TTF / OTF / TTC 批量转换。
+本地 iOS 9~17 & 18~26 字体转换工具，支持 TTF / OTF / TTC 批量转换。
 
+基于[iFont-huamidev](https://github.com/huami1314/iFont)开发
+
+UI好看，所以试着写一下。
 ## 功能
 
 - 支持 TTF / OTF / TTC 输入，输出 iOS 兼容的 TTC / TTF 格式
