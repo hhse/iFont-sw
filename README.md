@@ -62,10 +62,7 @@ iFont-sw/
 
 - GitHub: [@hhse](https://github.com/hhse)
 - Telegram: [@TheBallnow](https://t.me/TheBallnow)
-- 公众号: 「 一只huami 」
 
 ## License
 
-© 2026 iFont @huamidev
-
-基于 [huami-iFont](https://github.com/hhse/iFont-sw) 开发
+© 2026 iFont-sw [@hhse](https://github.com/hhse)
